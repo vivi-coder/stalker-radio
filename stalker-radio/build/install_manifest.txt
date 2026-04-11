@@ -1,0 +1,2 @@
+/usr/bin/stalker-radio
+/usr/share/applications/stalker-radio.desktop

@@ -1,0 +1,11 @@
+[Desktop Entry]
+Name=STALKER Radio Scanner
+GenericName=PDA Radio Scanner
+Comment=Zone communications interceptor — ground squads and VIPER air wing
+Exec=stalker-radio
+Icon=stalker-radio
+Terminal=false
+Type=Application
+Categories=Utility;Game;
+Keywords=stalker;zone;radio;anomaly;chatter;
+StartupWMClass=stalker-radio

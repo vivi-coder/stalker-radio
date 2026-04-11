@@ -1,0 +1,7 @@
+/home/vivi/Documents/stalker-radio/stalker-radio/build/CMakeFiles/stalker-radio.dir
+/home/vivi/Documents/stalker-radio/stalker-radio/build/CMakeFiles/edit_cache.dir
+/home/vivi/Documents/stalker-radio/stalker-radio/build/CMakeFiles/rebuild_cache.dir
+/home/vivi/Documents/stalker-radio/stalker-radio/build/CMakeFiles/list_install_components.dir
+/home/vivi/Documents/stalker-radio/stalker-radio/build/CMakeFiles/install.dir
+/home/vivi/Documents/stalker-radio/stalker-radio/build/CMakeFiles/install/local.dir
+/home/vivi/Documents/stalker-radio/stalker-radio/build/CMakeFiles/install/strip.dir
