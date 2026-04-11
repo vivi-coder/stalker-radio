@@ -19,3 +19,6 @@ PREVIEW:
 - Arch Linux (or any distro with GTK4)
 - Hyprland, Sway, GNOME, KDE — anything with Wayland or X11 works
 - `gtk4`, `cmake`, `make`, `pkgconf`
+
+
+i mean if you managed to atleast get it running on another distro it would be fire ty
