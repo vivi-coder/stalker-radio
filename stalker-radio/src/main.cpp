@@ -106,6 +106,8 @@ static const std::vector<std::string> CHATTER = {
     "PDA battery dying. Switching to backup.",
     "We buried Petrov near the old barn. Mark your maps.",
     "Emission residue still high. Suits on.",
+    "Get ready boys, we're going into the zone.",
+    "When's the next emission?",
 };
 
 static const std::vector<std::string> WARNINGS = {
@@ -118,6 +120,8 @@ static const std::vector<std::string> WARNINGS = {
     "LOST COMMS with Alpha team. Last position - the Cordon.",
     "Mutant herd moving fast. Don't get caught open.",
     "Bandit ambush at checkpoint 7! Abort your route!",
+    "Bandit ambush at checkpoint 5! Abort your route!",
+    "We need more people here! We are being ambushed! I repeat! We are being ambushed!",
     "Gravity anomaly surge near the antenna. Stay back.",
 };
 
