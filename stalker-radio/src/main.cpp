@@ -123,6 +123,7 @@ static const std::vector<std::string> WARNINGS = {
     "Bandit ambush at checkpoint 5! Abort your route!",
     "We need more people here! We are being ambushed! I repeat! We are being ambushed!",
     "Gravity anomaly surge near the antenna. Stay back.",
+    "Bandits chilling near the campfire, can we get a sniper on them?",
 };
 
 static const std::vector<std::string> DANGERS = {
