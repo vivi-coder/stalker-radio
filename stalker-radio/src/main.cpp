@@ -149,7 +149,7 @@ static const std::vector<std::string> SYSTEMS = {
 
 static const std::vector<std::string> AIR_CHATTER = {
     "Altitude check. Holding steady, rotor nominal.",
-    "Zone thermals are rough today. Watch your instruments.",
+    "Zone thermals are rough today. Watch your instruments, vipers.",
     "Visual on the Cordon. No unusual movement.",
     "Cloud ceiling dropping. Switching to instruments.",
     "Marking waypoint Delta. ETA two minutes.",
@@ -164,16 +164,14 @@ static const std::vector<std::string> AIR_CHATTER = {
     "Rotor wash might stir the anomaly field. Banking left.",
     "Picking up interference on nav band. Zone's playing games.",
     "Cleared to descend. Watching for those pylon cables.",
-    "Steady at altitude. Nothing on thermals.",
+    "Sweeping around the power plant. Nothing on thermals here.",
     "Perimeter sweep complete. No contacts on this pass.",
 };
 
 static const std::vector<std::string> AIR_WARNINGS = {
     "TAKING GROUND FIRE. BREAKING OFF.",
-    "ENGINE STUTTER AT ALTITUDE - ASSESSING.",
     "ANOMALY DISCHARGE - LOST MAIN ROTOR CONTROL BRIEFLY.",
     "UNIDENTIFIED AIRCRAFT ON INTERCEPT COURSE.",
-    "TERRAIN PROXIMITY - PULLING UP.",
     "BLOWOUT SHOCKWAVE AT ALTITUDE. ASSESSING DAMAGE.",
     "NAVIGATION FAILURE. FLYING ON COMPASS ONLY.",
 };
