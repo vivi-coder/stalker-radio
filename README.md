@@ -5,6 +5,8 @@ Vibe-coded app
 
 Please keep adding more AI here I want to see their limits
 
+By the way to update just install main.cpp from src and just replace it tbh, only changes to main.cpp will be allowed
+
 Any issues?
 Yeah just put them up
 
